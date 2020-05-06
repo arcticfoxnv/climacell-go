@@ -36,18 +36,18 @@ const (
 	WindSpeed                 DataField = "wind_speed"
 
 	// Air Quality
-	PM25                  DataField = "pm25"
-	PM10                  DataField = "pm10"
-	O3                    DataField = "o3"
-	NO2                   DataField = "no2"
-	CO                    DataField = "co"
-	SO2                   DataField = "so2"
-	EpaAqi                DataField = "epa_aqi"
-	EpaHealthConcern      DataField = "epa_health_concern"
-	EpaPrimaryPollutant   DataField = "epa_primary_pollutant"
 	ChinaAqi              DataField = "china_aqi"
 	ChinaHealthConcern    DataField = "china_health_concern"
 	ChinaPrimaryPollutant DataField = "china_primary_pollutant"
+	EpaAqi                DataField = "epa_aqi"
+	EpaHealthConcern      DataField = "epa_health_concern"
+	EpaPrimaryPollutant   DataField = "epa_primary_pollutant"
+	CO                    DataField = "co"
+	NO2                   DataField = "no2"
+	O3                    DataField = "o3"
+	PM10                  DataField = "pm10"
+	PM25                  DataField = "pm25"
+	SO2                   DataField = "so2"
 
 	// Pollen
 
